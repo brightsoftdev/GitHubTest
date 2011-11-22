@@ -20,6 +20,8 @@
     
     // Override point for customization after application launch.
     
+	NSLog(@"NSLog");
+	
     [self.window makeKeyAndVisible];
     
     return YES;

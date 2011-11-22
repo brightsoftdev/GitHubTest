@@ -41,6 +41,44 @@
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
 	};
+	03F507A2147B81CF00021D32 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* GitHubTestAppDelegate.h */;
+		name = "GitHubTestAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 335;
+		vrLoc = 0;
+	};
+	03F507A3147B81CF00021D32 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GitHubTestAppDelegate.m */;
+	};
+	03F507A4147B81CF00021D32 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GitHubTestAppDelegate.m */;
+		name = "GitHubTestAppDelegate.m: 23";
+		rLen = 0;
+		rLoc = 506;
+		rType = 0;
+		vrLen = 347;
+		vrLoc = 224;
+	};
+	1D3623240D0F684500981E51 /* GitHubTestAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 247}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 335}";
+		};
+	};
+	1D3623250D0F684500981E51 /* GitHubTestAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1144}}";
+			sepNavSelRange = "{506, 0}";
+			sepNavVisRange = "{224, 347}";
+		};
+	};
 	1D6058900D05DD3D006BFB54 /* GitHubTest */ = {
 		activeExec = 0;
 		executables = (
@@ -63,7 +101,7 @@
 					20,
 					341,
 					20,
-					48.16259765625,
+					48,
 					43,
 					43,
 					20,
@@ -78,8 +116,13 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 343637698;
-			PBXWorkspaceStateSaveDate = 343637698;
+			PBXPerProjectTemplateStateSaveDate = 343638449;
+			PBXWorkspaceStateSaveDate = 343638449;
+		};
+		perUserProjectItems = {
+			03F507A2147B81CF00021D32 /* PBXTextBookmark */ = 03F507A2147B81CF00021D32 /* PBXTextBookmark */;
+			03F507A3147B81CF00021D32 /* PBXBookmark */ = 03F507A3147B81CF00021D32 /* PBXBookmark */;
+			03F507A4147B81CF00021D32 /* PBXTextBookmark */ = 03F507A4147B81CF00021D32 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 03F5078F147B7EC400021D32 /* Source Control */;
 		userBuildSettings = {
