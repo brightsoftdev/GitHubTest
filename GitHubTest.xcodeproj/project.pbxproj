@@ -16,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		03F507AC147B82D000021D32 /* Readme */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Readme; sourceTree = "<group>"; };
 		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		1D3623240D0F684500981E51 /* GitHubTestAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GitHubTestAppDelegate.h; sourceTree = "<group>"; };
 		1D3623250D0F684500981E51 /* GitHubTestAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GitHubTestAppDelegate.m; sourceTree = "<group>"; };
@@ -47,6 +48,7 @@
 			children = (
 				1D3623240D0F684500981E51 /* GitHubTestAppDelegate.h */,
 				1D3623250D0F684500981E51 /* GitHubTestAppDelegate.m */,
+				03F507AC147B82D000021D32 /* Readme */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
