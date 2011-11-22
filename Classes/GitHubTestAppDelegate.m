@@ -1,10 +1,3 @@
-//
-//  GitHubTestAppDelegate.m
-//  GitHubTest
-//
-//  Created by Bright Ming on 11-11-22.
-//  Copyright 2011 www.zhangyue.com. All rights reserved.
-//
 
 #import "GitHubTestAppDelegate.h"
 
