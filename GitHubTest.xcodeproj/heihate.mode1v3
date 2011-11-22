@@ -265,16 +265,12 @@
 							<array>
 								<string>29B97314FDCFA39411CA2CEA</string>
 								<string>080E96DDFE201D6D7F000001</string>
-								<string>29B97315FDCFA39411CA2CEA</string>
-								<string>29B97317FDCFA39411CA2CEA</string>
-								<string>29B97323FDCFA39411CA2CEA</string>
-								<string>19C28FACFE9D520D11CA2CBB</string>
 								<string>1C37FABC05509CD000000102</string>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>4</integer>
+									<integer>3</integer>
 									<integer>1</integer>
 									<integer>0</integer>
 								</array>
@@ -299,7 +295,7 @@
 							<real>186</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>381 137 788 504 0 0 1280 778 </string>
+						<string>88 186 788 504 0 0 1280 778 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -317,7 +313,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>Readme</string>
+								<string>GitHubTestAppDelegate.m</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -325,18 +321,15 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>Readme</string>
+										<string>GitHubTestAppDelegate.m</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>03F507BE147B834300021D32</string>
+										<string>03F507A4147B81CF00021D32</string>
 										<key>history</key>
 										<array>
-											<string>03F507B9147B834300021D32</string>
-											<string>03F507BA147B834300021D32</string>
-											<string>03F507BB147B834300021D32</string>
-											<string>03F507BC147B834300021D32</string>
-											<string>03F507BD147B834300021D32</string>
+											<string>03F507A2147B81CF00021D32</string>
+											<string>03F507A3147B81CF00021D32</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -348,14 +341,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {580, 251}}</string>
+								<string>{{0, 0}, {580, 269}}</string>
 								<key>RubberWindowFrame</key>
-								<string>381 137 788 504 0 0 1280 778 </string>
+								<string>88 186 788 504 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>251pt</string>
+							<string>269pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -368,14 +361,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 256}, {580, 207}}</string>
+								<string>{{0, 274}, {580, 189}}</string>
 								<key>RubberWindowFrame</key>
-								<string>381 137 788 504 0 0 1280 778 </string>
+								<string>88 186 788 504 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>207pt</string>
+							<string>189pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
@@ -394,9 +387,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>03F507BF147B834300021D32</string>
+				<string>03F5079F147B81B700021D32</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>03F507C0147B834300021D32</string>
+				<string>03F507A0147B81B700021D32</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -538,7 +531,7 @@
 		<string>/Users/heihate/Desktop/GitHubTest/GitHubTest.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>381 137 788 504 0 0 1280 778 </string>
+	<string>88 186 788 504 0 0 1280 778 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
@@ -615,7 +608,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>03F5078D147B7EC400021D32</string>
-				<string>03F507C1147B834300021D32</string>
+				<string>03F507A1147B81B700021D32</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
